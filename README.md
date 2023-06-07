@@ -9,7 +9,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/ionmusic" target="blank"><img src="https://img.shields.io/badge/@kenapatagkazu-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/ionmusic" target="blank"><img src="https://img.shields.io/badge/@disinikazu-30302f?style=flat&logo=telegram" /></a>
     <a href="https://instagram.com/r_simberi" target="blank"><img src="https://img.shields.io/badge/@r_simberi-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
